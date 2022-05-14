@@ -18,7 +18,7 @@ Mongo DB
 Visual Studio code or any IDE for web developement 
 
 ## Steps:
-Running the Backend:
+### Running the Backend:
 
 1- Change to 'Authentication' directory
 
@@ -31,7 +31,7 @@ Running the Backend:
 
 
 
-Running the Frontend:
+### Running the Frontend:
 
 1- change to 'iss' directory
 
