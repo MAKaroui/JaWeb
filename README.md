@@ -17,7 +17,7 @@ Node JS
 Mongo DB
 Visual Studio code or any IDE for web developement 
 
-##Steps:
+Steps:
 Running the Backend: 
 1- Change to 'Authentication' directory
 2- run command 'npm init' 
