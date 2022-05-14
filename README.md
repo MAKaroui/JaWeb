@@ -17,7 +17,7 @@ Node JS
 Mongo DB
 Visual Studio code or any IDE for web developement 
 
-Steps:
+## Steps:
 Running the Backend: 
 1- Change to 'Authentication' directory
 2- run command 'npm init' 
@@ -30,7 +30,7 @@ Running the Frontend:
 3- run command 'npm install' to install the dependencies packages 
 4- run command 'npm start' to run the frontend on port 3000
 
-#Contibuting:
+# Contibuting:
 Required knowledge:
 Web developement basics (html, css, javascript)
 Express JS for the server side  
