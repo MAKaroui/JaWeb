@@ -4,11 +4,11 @@ Welcome to Development repo of JaWeb Platform!
 "JaWeb" is a quiz platform that helps to create and play quizez in specific topic.
 
 # Original Developers
-Eya chafter 
-Mohamed Amine Karoui
-Zeineb Dridi 
-Mehdi Dhaou 
-Ahmed Belghith 
+Eya chafter /
+Mohamed Amine Karoui/
+Zeineb Dridi /
+Mehdi Dhaou /
+Ahmed Belghith /
 Chaima Rajah
 
 # Building JaWeb code: 
